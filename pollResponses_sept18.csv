@@ -1,0 +1,344 @@
+Option1,Option2,Option3,Option4,Best,Worst
+Buffalo Sabres,San Jose Sharks,New Jersey Devils,Winnipeg Jets,San Jose Sharks,Buffalo Sabres
+Detroit Red Wings,New Jersey Devils,Nashville Predators,New York Rangers,Nashville Predators,Detroit Red Wings
+Toronto Maple Leafs,Dallas Stars,Carolina Hurricanes,Edmonton Oilers,Toronto Maple Leafs,Carolina Hurricanes
+Arizona Coyotes,Montreal Canadiens,Minnesota Wild,Florida Panthers,Minnesota Wild,Arizona Coyotes
+Vancouver Canucks,Minnesota Wild,Winnipeg Jets,Toronto Maple Leafs,Winnipeg Jets,Vancouver Canucks
+New York Rangers,Winnipeg Jets,New York Islanders,Washington Capitals,Winnipeg Jets,New York Islanders
+Calgary Flames,New York Islanders,San Jose Sharks,Ottawa Senators,San Jose Sharks,Ottawa Senators
+Detroit Red Wings,Vegas Golden Knights,New Jersey Devils,Nashville Predators,Nashville Predators,Detroit Red Wings
+Edmonton Oilers,Pittsburgh Penguins,Calgary Flames,Columbus Blue Jackets,Pittsburgh Penguins,Calgary Flames
+Carolina Hurricanes,Nashville Predators,Minnesota Wild,Anaheim Ducks,Nashville Predators,Carolina Hurricanes
+Vegas Golden Knights,Vancouver Canucks,Philadelphia Flyers,Boston Bruins,Vegas Golden Knights,Vancouver Canucks
+Nashville Predators,Toronto Maple Leafs,Philadelphia Flyers,Ottawa Senators,Nashville Predators,Philadelphia Flyers
+Florida Panthers,Los Angeles Kings,Philadelphia Flyers,New York Rangers,Florida Panthers,New York Rangers
+Anaheim Ducks,New York Rangers,Ottawa Senators,Nashville Predators,Nashville Predators,Ottawa Senators
+Edmonton Oilers,Arizona Coyotes,Dallas Stars,Vancouver Canucks,Edmonton Oilers,Vancouver Canucks
+Vegas Golden Knights,New York Rangers,Columbus Blue Jackets,Toronto Maple Leafs,Vegas Golden Knights,New York Rangers
+New York Islanders,New Jersey Devils,Anaheim Ducks,St. Louis Blues,New Jersey Devils,New York Islanders
+Detroit Red Wings,Washington Capitals,St. Louis Blues,Columbus Blue Jackets,Washington Capitals,Columbus Blue Jackets
+Philadelphia Flyers,New York Islanders,Columbus Blue Jackets,Vancouver Canucks,Columbus Blue Jackets,Vancouver Canucks
+Anaheim Ducks,San Jose Sharks,Dallas Stars,Detroit Red Wings,San Jose Sharks,Dallas Stars
+Montreal Canadiens,St. Louis Blues,Columbus Blue Jackets,New York Rangers,St. Louis Blues,Montreal Canadiens
+Los Angeles Kings,New Jersey Devils,Toronto Maple Leafs,Edmonton Oilers,Toronto Maple Leafs,Edmonton Oilers
+Toronto Maple Leafs,Minnesota Wild,St. Louis Blues,Boston Bruins,Boston Bruins,St. Louis Blues
+San Jose Sharks,Vancouver Canucks,New York Rangers,Carolina Hurricanes,San Jose Sharks,Vancouver Canucks
+Winnipeg Jets,Anaheim Ducks,Nashville Predators,Edmonton Oilers,Nashville Predators,Anaheim Ducks
+San Jose Sharks,Florida Panthers,Detroit Red Wings,Chicago Blackhawks,San Jose Sharks,Chicago Blackhawks
+St. Louis Blues,New York Islanders,Calgary Flames,Winnipeg Jets,Winnipeg Jets,Calgary Flames
+Pittsburgh Penguins,Carolina Hurricanes,Colorado Avalanche,Anaheim Ducks,Pittsburgh Penguins,Carolina Hurricanes
+Washington Capitals,Columbus Blue Jackets,Montreal Canadiens,Colorado Avalanche,Washington Capitals,Montreal Canadiens
+Columbus Blue Jackets,New Jersey Devils,Montreal Canadiens,Washington Capitals,Washington Capitals,Montreal Canadiens
+Montreal Canadiens,Boston Bruins,Pittsburgh Penguins,Detroit Red Wings,Boston Bruins,Detroit Red Wings
+Toronto Maple Leafs,Detroit Red Wings,Edmonton Oilers,Columbus Blue Jackets,Edmonton Oilers,Columbus Blue Jackets
+Carolina Hurricanes,Nashville Predators,Chicago Blackhawks,Vegas Golden Knights,Vegas Golden Knights,Chicago Blackhawks
+Pittsburgh Penguins,Ottawa Senators,Florida Panthers,Carolina Hurricanes,Pittsburgh Penguins,Ottawa Senators
+Colorado Avalanche,Vancouver Canucks,Philadelphia Flyers,San Jose Sharks,San Jose Sharks,Vancouver Canucks
+Winnipeg Jets,San Jose Sharks,Los Angeles Kings,Montreal Canadiens,Winnipeg Jets,Los Angeles Kings
+Arizona Coyotes,Nashville Predators,New Jersey Devils,Dallas Stars,Nashville Predators,Dallas Stars
+Philadelphia Flyers,Washington Capitals,Nashville Predators,Detroit Red Wings,Washington Capitals,Philadelphia Flyers
+Florida Panthers,St. Louis Blues,Winnipeg Jets,Boston Bruins,Boston Bruins,St. Louis Blues
+Montreal Canadiens,Vancouver Canucks,Toronto Maple Leafs,Los Angeles Kings,Toronto Maple Leafs,Montreal Canadiens
+New Jersey Devils,Vegas Golden Knights,Vancouver Canucks,Buffalo Sabres,Vegas Golden Knights,Buffalo Sabres
+New York Rangers,Ottawa Senators,New York Islanders,Boston Bruins,Boston Bruins,New York Islanders
+St. Louis Blues,Chicago Blackhawks,Anaheim Ducks,Los Angeles Kings,Los Angeles Kings,Chicago Blackhawks
+Montreal Canadiens,New York Rangers,Florida Panthers,Washington Capitals,Washington Capitals,Montreal Canadiens
+Toronto Maple Leafs,Carolina Hurricanes,St. Louis Blues,Winnipeg Jets,Winnipeg Jets,Carolina Hurricanes
+Washington Capitals,Buffalo Sabres,Anaheim Ducks,Vegas Golden Knights,,
+New York Rangers,Anaheim Ducks,Boston Bruins,Florida Panthers,Boston Bruins,Anaheim Ducks
+Vegas Golden Knights,Nashville Predators,Colorado Avalanche,Vancouver Canucks,Nashville Predators,Vancouver Canucks
+Toronto Maple Leafs,Detroit Red Wings,Colorado Avalanche,Washington Capitals,Washington Capitals,Colorado Avalanche
+Los Angeles Kings,Toronto Maple Leafs,Buffalo Sabres,Pittsburgh Penguins,Pittsburgh Penguins,
+Chicago Blackhawks,Florida Panthers,St. Louis Blues,Winnipeg Jets,,
+Detroit Red Wings,Edmonton Oilers,Dallas Stars,Winnipeg Jets,,
+Ottawa Senators,Columbus Blue Jackets,Colorado Avalanche,Carolina Hurricanes,Colorado Avalanche,Ottawa Senators
+Columbus Blue Jackets,Edmonton Oilers,Buffalo Sabres,New York Islanders,,
+Vancouver Canucks,Montreal Canadiens,Carolina Hurricanes,Ottawa Senators,,
+Nashville Predators,Ottawa Senators,Philadelphia Flyers,Minnesota Wild,Nashville Predators,Ottawa Senators
+Montreal Canadiens,Philadelphia Flyers,Detroit Red Wings,Dallas Stars,Dallas Stars,Montreal Canadiens
+Florida Panthers,Toronto Maple Leafs,Vegas Golden Knights,Los Angeles Kings,Vegas Golden Knights,Florida Panthers
+New York Rangers,Edmonton Oilers,Minnesota Wild,Ottawa Senators,,
+Los Angeles Kings,Toronto Maple Leafs,Nashville Predators,Calgary Flames,,
+San Jose Sharks,Calgary Flames,Edmonton Oilers,Ottawa Senators,San Jose Sharks,Ottawa Senators
+New York Rangers,Anaheim Ducks,Florida Panthers,Nashville Predators,Nashville Predators,Florida Panthers
+Calgary Flames,Detroit Red Wings,Edmonton Oilers,Carolina Hurricanes,,
+Pittsburgh Penguins,Edmonton Oilers,Minnesota Wild,Philadelphia Flyers,,Edmonton Oilers
+Colorado Avalanche,San Jose Sharks,Dallas Stars,Montreal Canadiens,,
+Winnipeg Jets,Los Angeles Kings,New York Rangers,Pittsburgh Penguins,,
+Dallas Stars,Anaheim Ducks,St. Louis Blues,Calgary Flames,,
+Chicago Blackhawks,San Jose Sharks,Los Angeles Kings,Columbus Blue Jackets,,
+Edmonton Oilers,Florida Panthers,Minnesota Wild,Dallas Stars,,
+Philadelphia Flyers,Carolina Hurricanes,Anaheim Ducks,Vancouver Canucks,,
+Anaheim Ducks,Colorado Avalanche,Vegas Golden Knights,Pittsburgh Penguins,,
+Philadelphia Flyers,Carolina Hurricanes,St. Louis Blues,Montreal Canadiens,Montreal Canadiens,Philadelphia Flyers
+Dallas Stars,Carolina Hurricanes,Boston Bruins,Vancouver Canucks,,Carolina Hurricanes
+Detroit Red Wings,New York Rangers,Dallas Stars,Minnesota Wild,,
+Dallas Stars,St. Louis Blues,Vegas Golden Knights,Winnipeg Jets,Chicago Blackhawks,
+Calgary Flames,Detroit Red Wings,New York Islanders,Florida Panthers,,
+San Jose Sharks,Detroit Red Wings,St. Louis Blues,Columbus Blue Jackets,,
+San Jose Sharks,Detroit Red Wings,Chicago Blackhawks,Florida Panthers,Minnesota Wild,Detroit Red Wings
+New York Islanders,Chicago Blackhawks,Minnesota Wild,Vegas Golden Knights,Winnipeg Jets,Dallas Stars
+Philadelphia Flyers,Arizona Coyotes,Calgary Flames,Los Angeles Kings,Florida Panthers,Calgary Flames
+Washington Capitals,Carolina Hurricanes,Florida Panthers,Colorado Avalanche,San Jose Sharks,
+New York Islanders,New York Rangers,Columbus Blue Jackets,Vegas Golden Knights,San Jose Sharks,Detroit Red Wings
+Arizona Coyotes,Philadelphia Flyers,San Jose Sharks,Edmonton Oilers,Chicago Blackhawks,New York Islanders
+Vancouver Canucks,Anaheim Ducks,Winnipeg Jets,Buffalo Sabres,Philadelphia Flyers,Arizona Coyotes
+Nashville Predators,Vancouver Canucks,St. Louis Blues,Minnesota Wild,Washington Capitals,Florida Panthers
+Tampa Bay Lightning,Columbus Blue Jackets,Montreal Canadiens,Colorado Avalanche,Vegas Golden Knights,Columbus Blue Jackets
+Columbus Blue Jackets,Tampa Bay Lightning,Montreal Canadiens,Washington Capitals,Anaheim Ducks,Vancouver Canucks
+Montreal Canadiens,Boston Bruins,Tampa Bay Lightning,Detroit Red Wings,Minnesota Wild,Vancouver Canucks
+Toronto Maple Leafs,Detroit Red Wings,Edmonton Oilers,Tampa Bay Lightning,Winnipeg Jets,Ottawa Senators
+Tampa Bay Lightning,Nashville Predators,Chicago Blackhawks,Vegas Golden Knights,Columbus Blue Jackets,Arizona Coyotes
+Tampa Bay Lightning,Minnesota Wild,Winnipeg Jets,Toronto Maple Leafs,Tampa Bay Lightning,New York Rangers
+New York Rangers,Tampa Bay Lightning,New York Islanders,Washington Capitals,San Jose Sharks,Dallas Stars
+Calgary Flames,New York Islanders,Tampa Bay Lightning,Ottawa Senators,San Jose Sharks,Vancouver Canucks
+Philadelphia Flyers,Ottawa Senators,Winnipeg Jets,Montreal Canadiens,Pittsburgh Penguins,Anaheim Ducks
+Arizona Coyotes,Columbus Blue Jackets,New York Rangers,Buffalo Sabres,New Jersey Devils,Florida Panthers
+New Jersey Devils,Tampa Bay Lightning,Vegas Golden Knights,New York Rangers,,
+San Jose Sharks,Edmonton Oilers,New Jersey Devils,Dallas Stars,,
+Minnesota Wild,Vancouver Canucks,New York Rangers,San Jose Sharks,,
+Buffalo Sabres,Anaheim Ducks,Pittsburgh Penguins,Columbus Blue Jackets,Washington Capitals,Vancouver Canucks
+Los Angeles Kings,Florida Panthers,Detroit Red Wings,New Jersey Devils,Winnipeg Jets,
+Minnesota Wild,Vancouver Canucks,Boston Bruins,Washington Capitals,San Jose Sharks,Montreal Canadiens
+Montreal Canadiens,Calgary Flames,Dallas Stars,San Jose Sharks,Nashville Predators,Detroit Red Wings
+New Jersey Devils,Detroit Red Wings,Boston Bruins,Nashville Predators,Colorado Avalanche,Montreal Canadiens
+Colorado Avalanche,Minnesota Wild,Montreal Canadiens,New York Islanders,Columbus Blue Jackets,Ottawa Senators
+Ottawa Senators,Florida Panthers,Dallas Stars,Columbus Blue Jackets,Columbus Blue Jackets,Montreal Canadiens
+Montreal Canadiens,Columbus Blue Jackets,New Jersey Devils,New York Islanders,Winnipeg Jets,Detroit Red Wings
+Detroit Red Wings,Florida Panthers,Winnipeg Jets,Los Angeles Kings,Pittsburgh Penguins,Chicago Blackhawks
+Minnesota Wild,Edmonton Oilers,Chicago Blackhawks,Pittsburgh Penguins,Winnipeg Jets,Columbus Blue Jackets
+Columbus Blue Jackets,Winnipeg Jets,St. Louis Blues,Nashville Predators,San Jose Sharks,Montreal Canadiens
+Montreal Canadiens,Florida Panthers,Calgary Flames,San Jose Sharks,,
+Minnesota Wild,New York Rangers,Toronto Maple Leafs,Detroit Red Wings,,
+Minnesota Wild,Buffalo Sabres,New Jersey Devils,Anaheim Ducks,,
+Anaheim Ducks,Ottawa Senators,Minnesota Wild,Philadelphia Flyers,,
+Anaheim Ducks,Colorado Avalanche,Vancouver Canucks,Edmonton Oilers,,
+Anaheim Ducks,Washington Capitals,San Jose Sharks,Vegas Golden Knights,Anaheim Ducks,
+Anaheim Ducks,Washington Capitals,San Jose Sharks,Vegas Golden Knights,Tampa Bay Lightning,
+Chicago Blackhawks,Los Angeles Kings,Vegas Golden Knights,Tampa Bay Lightning,Winnipeg Jets,Carolina Hurricanes
+Edmonton Oilers,Carolina Hurricanes,Winnipeg Jets,Anaheim Ducks,Washington Capitals,Vancouver Canucks
+Washington Capitals,Dallas Stars,Vancouver Canucks,Columbus Blue Jackets,Winnipeg Jets,New York Rangers
+Winnipeg Jets,Arizona Coyotes,Colorado Avalanche,New York Rangers,Toronto Maple Leafs,
+New York Islanders,Los Angeles Kings,Buffalo Sabres,Toronto Maple Leafs,Toronto Maple Leafs,
+Detroit Red Wings,Winnipeg Jets,Edmonton Oilers,Toronto Maple Leafs,San Jose Sharks,Carolina Hurricanes
+San Jose Sharks,Columbus Blue Jackets,Carolina Hurricanes,Arizona Coyotes,Tampa Bay Lightning,Ottawa Senators
+Florida Panthers,New Jersey Devils,Tampa Bay Lightning,Ottawa Senators,Washington Capitals,New York Islanders
+Washington Capitals,Edmonton Oilers,Los Angeles Kings,New York Islanders,Chicago Blackhawks,Vancouver Canucks
+Chicago Blackhawks,Montreal Canadiens,Arizona Coyotes,Vancouver Canucks,Winnipeg Jets,Minnesota Wild
+Nashville Predators,Anaheim Ducks,Winnipeg Jets,Minnesota Wild,Nashville Predators,Detroit Red Wings
+Vancouver Canucks,Nashville Predators,Pittsburgh Penguins,Detroit Red Wings,Vegas Golden Knights,Montreal Canadiens
+Anaheim Ducks,Montreal Canadiens,Philadelphia Flyers,Vegas Golden Knights,St. Louis Blues,Detroit Red Wings
+St. Louis Blues,Detroit Red Wings,New York Rangers,Florida Panthers,,
+Colorado Avalanche,Buffalo Sabres,Philadelphia Flyers,Florida Panthers,,
+Toronto Maple Leafs,New Jersey Devils,San Jose Sharks,Boston Bruins,Tampa Bay Lightning,Nashville Predators
+New Jersey Devils,Minnesota Wild,Nashville Predators,Tampa Bay Lightning,Boston Bruins,Columbus Blue Jackets
+Columbus Blue Jackets,Washington Capitals,Boston Bruins,New Jersey Devils,Tampa Bay Lightning,Nashville Predators
+Chicago Blackhawks,Tampa Bay Lightning,Pittsburgh Penguins,Nashville Predators,New Jersey Devils,Edmonton Oilers
+Minnesota Wild,New Jersey Devils,San Jose Sharks,Edmonton Oilers,,
+Philadelphia Flyers,Nashville Predators,Chicago Blackhawks,Tampa Bay Lightning,,
+Toronto Maple Leafs,Dallas Stars,Calgary Flames,Los Angeles Kings,,
+Pittsburgh Penguins,Carolina Hurricanes,Arizona Coyotes,Nashville Predators,,
+Colorado Avalanche,Columbus Blue Jackets,Vancouver Canucks,Detroit Red Wings,Nashville Predators,Arizona Coyotes
+Nashville Predators,Arizona Coyotes,Anaheim Ducks,Buffalo Sabres,Anaheim Ducks,Detroit Red Wings
+Detroit Red Wings,Anaheim Ducks,Washington Capitals,Winnipeg Jets,Winnipeg Jets,
+Vegas Golden Knights,Tampa Bay Lightning,Columbus Blue Jackets,Winnipeg Jets,,
+Chicago Blackhawks,Montreal Canadiens,New York Islanders,Detroit Red Wings,,
+Calgary Flames,Winnipeg Jets,Boston Bruins,San Jose Sharks,Winnipeg Jets,
+Vancouver Canucks,St. Louis Blues,Winnipeg Jets,Tampa Bay Lightning,,
+Detroit Red Wings,Edmonton Oilers,Ottawa Senators,Florida Panthers,,
+Boston Bruins,Toronto Maple Leafs,New York Islanders,San Jose Sharks,,
+Dallas Stars,Vancouver Canucks,Pittsburgh Penguins,Los Angeles Kings,Pittsburgh Penguins,
+Detroit Red Wings,Nashville Predators,St. Louis Blues,Pittsburgh Penguins,Tampa Bay Lightning,Arizona Coyotes
+Minnesota Wild,Columbus Blue Jackets,Arizona Coyotes,Tampa Bay Lightning,Vegas Golden Knights,Carolina Hurricanes
+New Jersey Devils,Vegas Golden Knights,Columbus Blue Jackets,Carolina Hurricanes,Tampa Bay Lightning,Detroit Red Wings
+Detroit Red Wings,New York Islanders,Tampa Bay Lightning,Minnesota Wild,Columbus Blue Jackets,Vancouver Canucks
+Vancouver Canucks,Columbus Blue Jackets,Montreal Canadiens,New Jersey Devils,Winnipeg Jets,New York Islanders
+Columbus Blue Jackets,Winnipeg Jets,New York Islanders,Philadelphia Flyers,Tampa Bay Lightning,Buffalo Sabres
+Calgary Flames,Tampa Bay Lightning,Buffalo Sabres,New York Rangers,Columbus Blue Jackets,Arizona Coyotes
+Chicago Blackhawks,Calgary Flames,Arizona Coyotes,Columbus Blue Jackets,Chicago Blackhawks,Detroit Red Wings
+Arizona Coyotes,Florida Panthers,Chicago Blackhawks,Detroit Red Wings,Nashville Predators,Buffalo Sabres
+Buffalo Sabres,Florida Panthers,Colorado Avalanche,Nashville Predators,Chicago Blackhawks,Detroit Red Wings
+New York Rangers,Detroit Red Wings,Philadelphia Flyers,Chicago Blackhawks,Washington Capitals,Arizona Coyotes
+Arizona Coyotes,Vegas Golden Knights,Buffalo Sabres,Washington Capitals,San Jose Sharks,Chicago Blackhawks
+Dallas Stars,St. Louis Blues,San Jose Sharks,Chicago Blackhawks,,
+Pittsburgh Penguins,San Jose Sharks,Calgary Flames,Arizona Coyotes,,Arizona Coyotes
+New York Rangers,Arizona Coyotes,Vancouver Canucks,Calgary Flames,,
+Edmonton Oilers,Anaheim Ducks,Boston Bruins,Pittsburgh Penguins,,
+Vegas Golden Knights,Montreal Canadiens,Detroit Red Wings,Toronto Maple Leafs,,
+Minnesota Wild,Florida Panthers,Tampa Bay Lightning,Pittsburgh Penguins,,Florida Panthers
+Calgary Flames,Vancouver Canucks,Nashville Predators,Florida Panthers,,
+Florida Panthers,Washington Capitals,Columbus Blue Jackets,St. Louis Blues,,
+Florida Panthers,Washington Capitals,Columbus Blue Jackets,St. Louis Blues,,
+Boston Bruins,Nashville Predators,Carolina Hurricanes,San Jose Sharks,,
+Winnipeg Jets,New York Rangers,New Jersey Devils,Los Angeles Kings,,
+Detroit Red Wings,New York Rangers,St. Louis Blues,Los Angeles Kings,,
+Winnipeg Jets,Minnesota Wild,Ottawa Senators,New Jersey Devils,,
+Calgary Flames,Montreal Canadiens,Pittsburgh Penguins,Florida Panthers,Dallas Stars,Calgary Flames
+St. Louis Blues,Edmonton Oilers,Dallas Stars,Calgary Flames,Philadelphia Flyers,
+Arizona Coyotes,Washington Capitals,Los Angeles Kings,Philadelphia Flyers,Philadelphia Flyers,
+Philadelphia Flyers,Florida Panthers,Carolina Hurricanes,Pittsburgh Penguins,Philadelphia Flyers,
+Ottawa Senators,Toronto Maple Leafs,Philadelphia Flyers,Minnesota Wild,Philadelphia Flyers,
+Colorado Avalanche,Minnesota Wild,Philadelphia Flyers,Detroit Red Wings,,
+San Jose Sharks,New York Rangers,Montreal Canadiens,Columbus Blue Jackets,,
+Tampa Bay Lightning,Minnesota Wild,Edmonton Oilers,Columbus Blue Jackets,,
+Boston Bruins,Vancouver Canucks,San Jose Sharks,Toronto Maple Leafs,,Vancouver Canucks
+Ottawa Senators,Tampa Bay Lightning,Detroit Red Wings,Vancouver Canucks,,Ottawa Senators
+Buffalo Sabres,Ottawa Senators,Arizona Coyotes,Edmonton Oilers,,
+Detroit Red Wings,St. Louis Blues,Philadelphia Flyers,Montreal Canadiens,,
+New York Rangers,Carolina Hurricanes,Nashville Predators,Boston Bruins,,
+Pittsburgh Penguins,Los Angeles Kings,Calgary Flames,Vancouver Canucks,,
+St. Louis Blues,Vancouver Canucks,Florida Panthers,Columbus Blue Jackets,,
+Arizona Coyotes,Boston Bruins,Edmonton Oilers,Pittsburgh Penguins,,
+Los Angeles Kings,Florida Panthers,Ottawa Senators,Toronto Maple Leafs,Los Angeles Kings,
+Carolina Hurricanes,Winnipeg Jets,Los Angeles Kings,Calgary Flames,,
+Buffalo Sabres,Los Angeles Kings,Minnesota Wild,Montreal Canadiens,Philadelphia Flyers,
+Ottawa Senators,Florida Panthers,Philadelphia Flyers,Calgary Flames,,
+Vancouver Canucks,San Jose Sharks,Dallas Stars,Columbus Blue Jackets,Tampa Bay Lightning,Ottawa Senators
+Los Angeles Kings,Ottawa Senators,New York Islanders,Tampa Bay Lightning,,
+Los Angeles Kings,Winnipeg Jets,Buffalo Sabres,St. Louis Blues,Philadelphia Flyers,
+Philadelphia Flyers,Washington Capitals,Tampa Bay Lightning,Vancouver Canucks,,
+Washington Capitals,Winnipeg Jets,Edmonton Oilers,Toronto Maple Leafs,,
+Nashville Predators,St. Louis Blues,Carolina Hurricanes,Vegas Golden Knights,,
+Buffalo Sabres,Florida Panthers,San Jose Sharks,Montreal Canadiens,,
+Los Angeles Kings,Columbus Blue Jackets,Minnesota Wild,St. Louis Blues,,
+Carolina Hurricanes,Winnipeg Jets,Nashville Predators,Arizona Coyotes,,
+Arizona Coyotes,Winnipeg Jets,Montreal Canadiens,Minnesota Wild,,Arizona Coyotes
+New York Rangers,Winnipeg Jets,Carolina Hurricanes,Florida Panthers,Winnipeg Jets,New York Rangers
+Chicago Blackhawks,Edmonton Oilers,Vegas Golden Knights,Ottawa Senators,Vegas Golden Knights,Ottawa Senators
+New York Islanders,Florida Panthers,Buffalo Sabres,Nashville Predators,Nashville Predators,New York Islanders
+Winnipeg Jets,San Jose Sharks,Florida Panthers,Detroit Red Wings,Winnipeg Jets,Detroit Red Wings
+Tampa Bay Lightning,Columbus Blue Jackets,Toronto Maple Leafs,Los Angeles Kings,Tampa Bay Lightning,Los Angeles Kings
+New York Rangers,Carolina Hurricanes,Chicago Blackhawks,Vancouver Canucks,,
+Boston Bruins,Edmonton Oilers,Philadelphia Flyers,St. Louis Blues,Boston Bruins,Edmonton Oilers
+Tampa Bay Lightning,Boston Bruins,Edmonton Oilers,New York Islanders,Tampa Bay Lightning,New York Islanders
+Tampa Bay Lightning,Winnipeg Jets,Ottawa Senators,Arizona Coyotes,Tampa Bay Lightning,Ottawa Senators
+Boston Bruins,Los Angeles Kings,Detroit Red Wings,New York Rangers,Boston Bruins,Detroit Red Wings
+Washington Capitals,Ottawa Senators,St. Louis Blues,Detroit Red Wings,Washington Capitals,Ottawa Senators
+San Jose Sharks,Toronto Maple Leafs,New York Rangers,Winnipeg Jets,Winnipeg Jets,New York Rangers
+Florida Panthers,Buffalo Sabres,Ottawa Senators,Los Angeles Kings,Los Angeles Kings,Ottawa Senators
+Pittsburgh Penguins,Calgary Flames,Montreal Canadiens,Columbus Blue Jackets,,
+Colorado Avalanche,Vancouver Canucks,Carolina Hurricanes,Vegas Golden Knights,Vegas Golden Knights,Vancouver Canucks
+Minnesota Wild,Toronto Maple Leafs,Los Angeles Kings,Buffalo Sabres,Toronto Maple Leafs,Buffalo Sabres
+Edmonton Oilers,Anaheim Ducks,Washington Capitals,Los Angeles Kings,Washington Capitals,Anaheim Ducks
+Winnipeg Jets,Chicago Blackhawks,Toronto Maple Leafs,New York Rangers,Winnipeg Jets,New York Rangers
+Winnipeg Jets,New York Islanders,Anaheim Ducks,Carolina Hurricanes,Winnipeg Jets,New York Islanders
+Vegas Golden Knights,Ottawa Senators,Nashville Predators,Dallas Stars,,
+Vancouver Canucks,Detroit Red Wings,Los Angeles Kings,New York Islanders,,
+Vancouver Canucks,St. Louis Blues,Calgary Flames,Tampa Bay Lightning,,
+Boston Bruins,Arizona Coyotes,Toronto Maple Leafs,Washington Capitals,,
+Vancouver Canucks,Arizona Coyotes,New Jersey Devils,Detroit Red Wings,,Arizona Coyotes
+Carolina Hurricanes,Nashville Predators,Florida Panthers,Tampa Bay Lightning,,
+Buffalo Sabres,New Jersey Devils,Washington Capitals,Ottawa Senators,,
+Anaheim Ducks,Columbus Blue Jackets,Detroit Red Wings,New York Rangers,,
+Calgary Flames,Philadelphia Flyers,New Jersey Devils,Minnesota Wild,,
+Colorado Avalanche,Los Angeles Kings,Minnesota Wild,San Jose Sharks,,Minnesota Wild
+Arizona Coyotes,Calgary Flames,Tampa Bay Lightning,Carolina Hurricanes,,
+Calgary Flames,Minnesota Wild,Montreal Canadiens,Nashville Predators,,
+Ottawa Senators,Columbus Blue Jackets,Los Angeles Kings,Colorado Avalanche,,
+Pittsburgh Penguins,San Jose Sharks,Nashville Predators,Calgary Flames,,
+Colorado Avalanche,Columbus Blue Jackets,New York Rangers,Anaheim Ducks,,
+Boston Bruins,New Jersey Devils,New York Islanders,San Jose Sharks,,
+Toronto Maple Leafs,Minnesota Wild,Chicago Blackhawks,Columbus Blue Jackets,,
+Vancouver Canucks,Dallas Stars,Chicago Blackhawks,Philadelphia Flyers,,
+New York Islanders,Vancouver Canucks,New Jersey Devils,Toronto Maple Leafs,,Vancouver Canucks
+New Jersey Devils,Tampa Bay Lightning,Carolina Hurricanes,Colorado Avalanche,,
+Chicago Blackhawks,San Jose Sharks,Buffalo Sabres,Nashville Predators,,
+Washington Capitals,Nashville Predators,New York Rangers,Winnipeg Jets,,
+Minnesota Wild,Arizona Coyotes,Anaheim Ducks,Columbus Blue Jackets,,
+Columbus Blue Jackets,Toronto Maple Leafs,Nashville Predators,St. Louis Blues,Columbus Blue Jackets,
+Anaheim Ducks,Edmonton Oilers,Detroit Red Wings,Ottawa Senators,,
+New York Islanders,Colorado Avalanche,Vegas Golden Knights,Dallas Stars,,
+New Jersey Devils,Columbus Blue Jackets,Vegas Golden Knights,Montreal Canadiens,Vegas Golden Knights,
+San Jose Sharks,Chicago Blackhawks,Tampa Bay Lightning,Edmonton Oilers,,
+Detroit Red Wings,San Jose Sharks,Calgary Flames,Chicago Blackhawks,San Jose Sharks,Chicago Blackhawks
+Boston Bruins,Tampa Bay Lightning,Vegas Golden Knights,Calgary Flames,,
+Calgary Flames,Edmonton Oilers,Vegas Golden Knights,New York Rangers,,Calgary Flames
+Toronto Maple Leafs,Minnesota Wild,Carolina Hurricanes,Colorado Avalanche,,
+Toronto Maple Leafs,Minnesota Wild,Carolina Hurricanes,Colorado Avalanche,,
+St. Louis Blues,Toronto Maple Leafs,Detroit Red Wings,Washington Capitals,Toronto Maple Leafs,
+Chicago Blackhawks,Boston Bruins,Detroit Red Wings,Montreal Canadiens,Boston Bruins,Montreal Canadiens
+Minnesota Wild,Vegas Golden Knights,New Jersey Devils,Anaheim Ducks,,
+Buffalo Sabres,Tampa Bay Lightning,Colorado Avalanche,Edmonton Oilers,,
+New York Islanders,San Jose Sharks,Edmonton Oilers,Calgary Flames,,
+Anaheim Ducks,Los Angeles Kings,Carolina Hurricanes,Buffalo Sabres,,
+Vegas Golden Knights,Washington Capitals,Vancouver Canucks,Winnipeg Jets,,
+Columbus Blue Jackets,New York Rangers,Philadelphia Flyers,Arizona Coyotes,,
+New York Rangers,Winnipeg Jets,Edmonton Oilers,Chicago Blackhawks,,
+Los Angeles Kings,Montreal Canadiens,Dallas Stars,Toronto Maple Leafs,,
+Tampa Bay Lightning,San Jose Sharks,Dallas Stars,Philadelphia Flyers,,
+Arizona Coyotes,Vancouver Canucks,Tampa Bay Lightning,Colorado Avalanche,,
+Los Angeles Kings,New York Islanders,New Jersey Devils,Tampa Bay Lightning,Tampa Bay Lightning,
+Winnipeg Jets,Florida Panthers,Boston Bruins,Arizona Coyotes,,
+Tampa Bay Lightning,Boston Bruins,Montreal Canadiens,Columbus Blue Jackets,,
+New Jersey Devils,Winnipeg Jets,Pittsburgh Penguins,New York Islanders,,
+Anaheim Ducks,Dallas Stars,Columbus Blue Jackets,Toronto Maple Leafs,,
+Dallas Stars,New York Islanders,Nashville Predators,Tampa Bay Lightning,,
+Philadelphia Flyers,Carolina Hurricanes,Calgary Flames,Colorado Avalanche,,
+Calgary Flames,Florida Panthers,New Jersey Devils,St. Louis Blues,,
+Colorado Avalanche,Toronto Maple Leafs,Dallas Stars,Florida Panthers,Florida Panthers,
+Vegas Golden Knights,Boston Bruins,Tampa Bay Lightning,Detroit Red Wings,,
+Philadelphia Flyers,Carolina Hurricanes,Pittsburgh Penguins,Vegas Golden Knights,,
+Tampa Bay Lightning,New York Rangers,St. Louis Blues,Nashville Predators,,
+Florida Panthers,New York Islanders,San Jose Sharks,Buffalo Sabres,,
+Carolina Hurricanes,Washington Capitals,Minnesota Wild,Anaheim Ducks,Washington Capitals,Carolina Hurricanes
+Calgary Flames,New York Rangers,Pittsburgh Penguins,San Jose Sharks,San Jose Sharks,
+New York Islanders,Ottawa Senators,Anaheim Ducks,Vancouver Canucks,Anaheim Ducks,Ottawa Senators
+New York Rangers,Nashville Predators,Minnesota Wild,Ottawa Senators,Nashville Predators,Ottawa Senators
+Winnipeg Jets,Ottawa Senators,Los Angeles Kings,St. Louis Blues,Winnipeg Jets,Ottawa Senators
+Tampa Bay Lightning,Los Angeles Kings,Detroit Red Wings,Winnipeg Jets,Tampa Bay Lightning,Detroit Red Wings
+Nashville Predators,Carolina Hurricanes,Edmonton Oilers,New Jersey Devils,Nashville Predators,Carolina Hurricanes
+St. Louis Blues,Anaheim Ducks,New York Rangers,Florida Panthers,Anaheim Ducks,Florida Panthers
+Chicago Blackhawks,Winnipeg Jets,Philadelphia Flyers,St. Louis Blues,Winnipeg Jets,Chicago Blackhawks
+Colorado Avalanche,Dallas Stars,Los Angeles Kings,San Jose Sharks,San Jose Sharks,Los Angeles Kings
+Pittsburgh Penguins,Vancouver Canucks,Nashville Predators,Edmonton Oilers,Nashville Predators,Edmonton Oilers
+New York Rangers,Tampa Bay Lightning,Anaheim Ducks,New Jersey Devils,New York Rangers,New Jersey Devils
+Buffalo Sabres,Chicago Blackhawks,Vancouver Canucks,Pittsburgh Penguins,Pittsburgh Penguins,
+Florida Panthers,Detroit Red Wings,Tampa Bay Lightning,Dallas Stars,Dallas Stars,Florida Panthers
+Boston Bruins,New Jersey Devils,Dallas Stars,Toronto Maple Leafs,Toronto Maple Leafs,New Jersey Devils
+Toronto Maple Leafs,Buffalo Sabres,Pittsburgh Penguins,New York Rangers,Toronto Maple Leafs,New York Rangers
+Tampa Bay Lightning,San Jose Sharks,Pittsburgh Penguins,Nashville Predators,Tampa Bay Lightning,Pittsburgh Penguins
+Chicago Blackhawks,Pittsburgh Penguins,St. Louis Blues,Tampa Bay Lightning,Tampa Bay Lightning,Pittsburgh Penguins
+Philadelphia Flyers,New York Rangers,Dallas Stars,St. Louis Blues,,
+Carolina Hurricanes,Los Angeles Kings,San Jose Sharks,Vancouver Canucks,,
+Colorado Avalanche,Vancouver Canucks,Los Angeles Kings,Nashville Predators,Vancouver Canucks,
+Florida Panthers,Toronto Maple Leafs,Colorado Avalanche,Anaheim Ducks,,
+Washington Capitals,Vegas Golden Knights,Philadelphia Flyers,Dallas Stars,Washington Capitals,Philadelphia Flyers
+St. Louis Blues,Minnesota Wild,New York Islanders,Winnipeg Jets,,
+Vancouver Canucks,Detroit Red Wings,Anaheim Ducks,Boston Bruins,,
+Los Angeles Kings,Toronto Maple Leafs,Colorado Avalanche,Washington Capitals,,
+Detroit Red Wings,New York Rangers,Toronto Maple Leafs,Carolina Hurricanes,Toronto Maple Leafs,
+Florida Panthers,Detroit Red Wings,Washington Capitals,Edmonton Oilers,Detroit Red Wings,
+New York Rangers,Boston Bruins,Florida Panthers,Columbus Blue Jackets,,
+Vegas Golden Knights,Tampa Bay Lightning,Arizona Coyotes,New York Rangers,Tampa Bay Lightning,New York Rangers
+New York Islanders,Calgary Flames,Vegas Golden Knights,Montreal Canadiens,Vegas Golden Knights,Montreal Canadiens
+Detroit Red Wings,Nashville Predators,Anaheim Ducks,Arizona Coyotes,Nashville Predators,Detroit Red Wings
+New York Islanders,New York Rangers,Los Angeles Kings,Montreal Canadiens,Los Angeles Kings,Montreal Canadiens
+Calgary Flames,Edmonton Oilers,Vegas Golden Knights,Anaheim Ducks,Vegas Golden Knights,Calgary Flames
+New York Rangers,Toronto Maple Leafs,Colorado Avalanche,Vancouver Canucks,Toronto Maple Leafs,Vancouver Canucks
+Vancouver Canucks,Ottawa Senators,Tampa Bay Lightning,Carolina Hurricanes,Tampa Bay Lightning,Vancouver Canucks
+San Jose Sharks,New York Islanders,Boston Bruins,New Jersey Devils,San Jose Sharks,New York Islanders
+Winnipeg Jets,Montreal Canadiens,San Jose Sharks,Ottawa Senators,Winnipeg Jets,Montreal Canadiens
+Calgary Flames,Calgary Flames,St. Louis Blues,Anaheim Ducks,Edmonton Oilers,Anaheim Ducks
+Boston Bruins,New Jersey Devils,Vegas Golden Knights,Ottawa Senators,Vegas Golden Knights,Ottawa Senators
+Philadelphia Flyers,San Jose Sharks,Boston Bruins,Nashville Predators,San Jose Sharks,Philadelphia Flyers
+Tampa Bay Lightning,New Jersey Devils,Minnesota Wild,Boston Bruins,Tampa Bay Lightning,
+Washington Capitals,Boston Bruins,Toronto Maple Leafs,Chicago Blackhawks,,
+Washington Capitals,Chicago Blackhawks,Colorado Avalanche,Tampa Bay Lightning,Washington Capitals,Colorado Avalanche
+St. Louis Blues,Detroit Red Wings,Boston Bruins,Anaheim Ducks,Boston Bruins,Anaheim Ducks
+Pittsburgh Penguins,Montreal Canadiens,Minnesota Wild,New York Islanders,Pittsburgh Penguins,New York Islanders
+Calgary Flames,Dallas Stars,Ottawa Senators,Winnipeg Jets,Winnipeg Jets,Ottawa Senators
+Edmonton Oilers,Detroit Red Wings,St. Louis Blues,Washington Capitals,Washington Capitals,Detroit Red Wings
+Columbus Blue Jackets,Edmonton Oilers,Calgary Flames,Ottawa Senators,Columbus Blue Jackets,Ottawa Senators
+Calgary Flames,Ottawa Senators,Arizona Coyotes,Chicago Blackhawks,Calgary Flames,Ottawa Senators
+Boston Bruins,Columbus Blue Jackets,Vancouver Canucks,San Jose Sharks,Columbus Blue Jackets,
+Montreal Canadiens,Columbus Blue Jackets,Washington Capitals,San Jose Sharks,Washington Capitals,Montreal Canadiens
+Pittsburgh Penguins,New York Islanders,Minnesota Wild,New York Rangers,Pittsburgh Penguins,New York Islanders
+Los Angeles Kings,Chicago Blackhawks,Florida Panthers,Tampa Bay Lightning,Tampa Bay Lightning,Chicago Blackhawks
+Arizona Coyotes,Boston Bruins,New York Islanders,Toronto Maple Leafs,Toronto Maple Leafs,New York Islanders
+Calgary Flames,Nashville Predators,Ottawa Senators,Tampa Bay Lightning,Nashville Predators,Ottawa Senators
+Boston Bruins,Edmonton Oilers,Vancouver Canucks,Toronto Maple Leafs,Toronto Maple Leafs,Vancouver Canucks
+Ottawa Senators,Philadelphia Flyers,New Jersey Devils,Tampa Bay Lightning,Tampa Bay Lightning,Ottawa Senators
+Columbus Blue Jackets,Detroit Red Wings,St. Louis Blues,Chicago Blackhawks,Columbus Blue Jackets,Chicago Blackhawks
+Toronto Maple Leafs,Dallas Stars,Washington Capitals,Vegas Golden Knights,Washington Capitals,Dallas Stars
+Pittsburgh Penguins,Tampa Bay Lightning,Arizona Coyotes,Carolina Hurricanes,Pittsburgh Penguins,Arizona Coyotes
+Tampa Bay Lightning,New York Rangers,Arizona Coyotes,Winnipeg Jets,Winnipeg Jets,Arizona Coyotes
